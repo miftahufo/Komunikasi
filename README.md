@@ -6,6 +6,6 @@ Selanjutnya pada nodemcu esp 8266 menggunakan pin serial untuk menerima pesan, d
 
 
 ## Rangkaian
-![Rangkaian](image/Rangkaian.jpeg "Create")
+![Rangkaian](Image/Rangkaian.jpeg "Create")
 ## Hasil
-![Hasil](image/Hasil.jpeg "Hasil")
+![Hasil](Image/Hasil.jpeg "Hasil")
